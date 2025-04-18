@@ -1,0 +1,8 @@
+.A{color:red; font-size: 50px;}
+.B{color: darkgreen; font-size: 35px;}
+.C{color: darkorange; font-size: 25px;}
+.D{color: aqua; font-size: 25px;}
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
